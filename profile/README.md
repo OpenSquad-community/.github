@@ -37,10 +37,14 @@ Submit a pull request :D
 How to contribute:
 
 1.  Fork the repo
-2.  Create a new branch (`git checkout -b my-new-feature`)
-3.  Commit your changes (`git commit -am 'Added some feature'`)
-4.  Push to the branch (`git push origin my-new-feature`)
-5.  Create new Pull Request
+2.  Clone your forked repo [ `git clone <HTTP-link>/<SSH-link>` ]
+3.  Create a new branch [ `git checkout -b my-new-feature` ]
+4.  Stage you changed file [ `git add <file-name> or git add .` ]
+5.  Commit your changes [ `git commit -m 'Added some feature'` ]
+6.  Fetch the all change from remote repo[ `git fetch -u origin master`]
+7.  Add Fetch change to local repo[ `git branch REMOTE origin/<branch-name>` ]
+8.  Push to the branch [ `git push origin my-new-feature` ]
+9.  Create new Pull Request
 ## Reporting Bugs
 
 When creating a bug report, please include as much detail as possible, including:
