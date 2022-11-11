@@ -38,16 +38,16 @@ Thank you for your interest in contributing to our OpenSquad Community!
   
     Submit a pull request :D
 
-    How to contribute:
+   <h4> How to contribute:</h4>
 
     1.  Fork the repo
-    2.  Clone your forked repo [ `git clone <HTTP-link>/<SSH-link>` ]
-    3.  Create a new branch [ `git checkout -b my-new-feature` ]
-    4.  Stage you changed file [ `git add <file-name> or git add .` ]
-    5.  Commit your changes [ `git commit -m 'Added some feature'` ]
-    6.  Fetch the all change from remote repo[ `git fetch -u origin master`]
-    7.  Add Fetch change to local repo[ `git branch REMOTE origin/<branch-name>` ]
-    8.  Push to the branch [ `git push origin my-new-feature` ]
+    2.  Clone your forked repo :-[ `git clone <HTTP-link>/<SSH-link>` ]
+    3.  Create a new branch    :-[ `git checkout -b my-new-feature` ]
+    4.  Stage you changed file :-[ `git add <file-name> or git add .` ]
+    5.  Commit your changes    :-[ `git commit -m 'Added some feature'` ]
+    6.  Fetching changes       :-[ `git fetch -u origin master`]
+    7.  Adding Fetch changes   :-[ `git branch REMOTE origin/<branch-name>` ]
+    8.  Push to the branch     :-[ `git push origin my-new-feature` ]
     9.  Create new Pull Request
 
 </ul>  
