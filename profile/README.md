@@ -1,5 +1,5 @@
 
-# OpenSquad Community
+# OpenVillage
 
 Thank you for your interest in contributing to our OpenSquad Community!
 
